@@ -1,3 +1,4 @@
 ﻿  BigInt.cpp
-C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(123): warning C4172: возвращение адреса локальной или временной переменной : s
+C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(139): warning C4715: BigInt::operator>: значение возвращается не при всех путях выполнения
+C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(235): warning C4715: BigInt::operator==: значение возвращается не при всех путях выполнения
   BigInt.vcxproj -> C:\Users\МПаттон\Desktop\BigInt\Debug\BigInt.exe
