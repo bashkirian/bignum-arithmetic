@@ -1,4 +1,5 @@
 ﻿  BigInt.cpp
-C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(139): warning C4715: BigInt::operator>: значение возвращается не при всех путях выполнения
-C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(235): warning C4715: BigInt::operator==: значение возвращается не при всех путях выполнения
+C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(182): warning C4715: 'BigInt::operator>': not all control paths return a value
+C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(256): warning C4715: 'BigInt::operator<': not all control paths return a value
+C:\Users\МПаттон\Desktop\BigInt\BigInt.cpp(270): warning C4715: 'BigInt::operator==': not all control paths return a value
   BigInt.vcxproj -> C:\Users\МПаттон\Desktop\BigInt\Debug\BigInt.exe
